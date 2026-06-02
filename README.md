@@ -1,4 +1,4 @@
-# 📊 Fund-DS — UMKM Business Intelligence & Analytics
+<img width="848" height="324" alt="image" src="https://github.com/user-attachments/assets/68858bb7-5a05-43d1-ae91-7dd4e683fb5b" /># 📊 Fund-DS — UMKM Business Intelligence & Analytics
 
 Fund-DS is a Data Science project focused on analyzing UMKM operational performance through business intelligence, interactive visualization, and data-driven analytics.
 
@@ -189,6 +189,12 @@ fund-ds/
 ```
 
 ---
+
+# 📌 Link Document
+
+**Technical Report :** https://drive.google.com/file/d/1HvwaCUC9gDs_w3T-w0POOrDW96uCAra6/view?usp=drive_link
+**Model :** https://drive.google.com/drive/folders/1ARBgCh-3UrBW-yZY1RJW0xTPc5kv0hnt?usp=drive_link
+**Dataset :** https://drive.google.com/file/d/1-wEGiO1ue9_xLKOqRGins21hKim8uTA7/view?usp=drive_link
 
 # 📄 License
 
