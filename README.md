@@ -190,7 +190,7 @@ fund-ds/
 
 ---
 
-# 📌 Interactive Visualization
+# 📌 Link Document
 
 * **Technical Report :** https://drive.google.com/file/d/1HvwaCUC9gDs_w3T-w0POOrDW96uCAra6/view?usp=drive_link
 * **Dataset :** https://drive.google.com/file/d/1-wEGiO1ue9_xLKOqRGins21hKim8uTA7/view?usp=drive_link
