@@ -190,6 +190,13 @@ fund-ds/
 
 ---
 
+# 📌 Interactive Visualization
+
+* **Technical Report :** https://drive.google.com/file/d/1HvwaCUC9gDs_w3T-w0POOrDW96uCAra6/view?usp=drive_link
+* **Dataset :** https://drive.google.com/file/d/1-wEGiO1ue9_xLKOqRGins21hKim8uTA7/view?usp=drive_link
+* **Model AI :** https://drive.google.com/drive/folders/1ARBgCh-3UrBW-yZY1RJW0xTPc5kv0hnt?usp=drive_link
+
+---
 # 📄 License
 
 This project is intended for:
